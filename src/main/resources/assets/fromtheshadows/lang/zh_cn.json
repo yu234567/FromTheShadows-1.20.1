@@ -49,13 +49,13 @@
   "block.fromtheshadows.diabolium_block": "恶魔块",
 
   "effect.fromtheshadows.plague": "传播瘟疫", 
-  "effect.fromtheshadows.heal_block": "治疗方块", 
+  "effect.fromtheshadows.heal_block": "治疗失效", 
   "effect.fromtheshadows.bleeding": "流血",
 
   "death.attack.bleeding.player": "%s 因失血过多而亡。", 
   "death.attack.incinerate.player": "%s 已被焚毁。",
 
-  "itemGroup.fromtheshadows.item": "暗影之物",
+  "itemGroup.fromtheshadows.item": "From the shadows Items",
 
   "enchantment.fromtheshadows.divinity": "神性", 
   "enchantment.fromtheshadows.freezing": "冻结", 
